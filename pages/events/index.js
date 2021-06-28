@@ -1,4 +1,4 @@
-const events=()=>{
-    return <h1>Events page</h1>
+const EventComponent=()=>{
+    return <h1>EventComponent page</h1>
 }
-export default events;
+export default EventComponent;
